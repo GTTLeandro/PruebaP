@@ -1,11 +1,11 @@
 package Domain;
 
-import isi.died.lab99.domain.Contratado;
-import isi.died.lab99.domain.Empleado;
-import isi.died.lab99.domain.Mantenimiento;
-import isi.died.lab99.domain.Tarea;
-import isi.died.lab99.domain.exceptions.HorasNoDisponiblesException;
-import isi.died.lab99.domain.exceptions.SeniorityNoAlcanzadaException;
+import Domain.Contratado;
+import Domain.Empleado;
+import Domain.Mantenimiento;
+import Domain.Tarea;
+import Domain.Exceptions.HorasNoDisponiblesException;
+import Domain.Exceptions.SeniorityNoAlcanzadaException;
 
 public class App {
 	

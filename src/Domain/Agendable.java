@@ -1,6 +1,6 @@
-package isi.died.lab99.domain;
+package Domain;
 
-import isi.died.lab99.domain.exceptions.SeniorityNoAlcanzadaException;
+import Exceptions.SeniorityNoAlcanzadaException;
 
 public interface Agendable {
 	

@@ -1,4 +1,4 @@
-package isi.died.lab99.domain.exceptions;
+package Exceptions;
 
 public class HorasNoDisponiblesException extends Exception {
 
